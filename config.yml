@@ -1,0 +1,16 @@
+service_name:
+  command_1_name:
+    name: Command 1
+    display_text: Command 1
+    bot_text: Command 1 text
+
+  command_2_name:
+    name: Command 2
+    display_text: Command 2
+    bot_text: Command 2 text
+
+  command_3_name:
+    name: Command 3
+    display_text: Command 3
+    bot_text: Command 3 text
+
